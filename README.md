@@ -22,6 +22,7 @@ Make sure you read the instructions beforehand.
   - [Instructions document](#instructions-document)
 - [License](#license)
 - [Contributing](#contributing)
+- [Star history](#star-history)
 - [Citation](#citation)
 
 ## User roles
@@ -99,6 +100,12 @@ This effort is organized by a collective of researchers from ETH Zurich, JHU, CU
 Reach out to [last-translation-benchmark@vilda.net](mailto:last-translation-benchmark@vilda.net) with inquiries.
 Please do not reach out about the status of your pending submissions.
 To speed up the review process, you can invite other speakers of your languages who can review your submissions or nominate yourself to be a reviewer.
+
+## Star history
+
+<img src="web/src/assets/star-history.svg" alt="Star history chart" width="700">
+
+Generated from the real stargazer timeline by [`scripts/plot_star_history.py`](scripts/plot_star_history.py) and refreshed weekly by [a workflow](.github/workflows/star-history.yml).
 
 ## Citation
 
